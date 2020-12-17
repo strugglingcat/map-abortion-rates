@@ -1,0 +1,42 @@
+* {
+	font-family: "Courier New", Courier, monospace
+}
+
+
+header {
+	margin: 50px;
+	text-align: center;
+}
+
+
+
+.body {
+	align-content: center;
+	margin-left: 100px;
+	text-align: justify;
+}
+
+.content {
+	padding-left: 50px;
+	padding-right: 100px;
+}
+
+
+.chart1 {display: block;
+	float: center;
+	padding: 60px;
+}
+
+
+.sources {
+	padding-left: 50px;
+	padding-right: 100px;
+}
+
+
+footer {
+	text-align: center;
+	padding-left: 50px;
+	padding-right: 100px;
+	padding-top: 50px;
+}
